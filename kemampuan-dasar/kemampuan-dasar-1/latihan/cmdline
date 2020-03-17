@@ -1,0 +1,11 @@
+cd Documents -> /home/sandi/Documents
+ls -> ES6  praxis-academy
+mkdir sample -> ES6  praxis-academy sample
+rm sample -> ES6 praxis-academy
+mv sample Downloads -> ES6 praxis-academy
+pwd -> /home/sandi/Documents
+cp sample/Dowloads sample/Documents -> ES6  praxis-academy sample
+sudo su -> /home/sandi/Documents# 
+sudo apt-get -> getting files
+sudo apt-get update -> updating files
+

@@ -1,0 +1,6 @@
+uname -a -> Linux swift 5.3.0-40-generic #32~18.04.1-Ubuntu SMP Mon Feb 3 14:05:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+
+kernel name - linux
+x86_64 – arsiktektur machine
+x86_64 – arsitektur processor
+x86_64 – operasi sistem (bisa berjalan di 64 dan 32 bit)
